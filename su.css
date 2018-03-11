@@ -1,0 +1,96 @@
+body{
+    background-image: url("1.jpg");
+    background-repeat: repeat;
+}
+
+*{
+    padding:0;
+    margin:0;
+}
+
+table{
+    width: 200px;
+    height: 200px;
+    border: double lavenderblush;
+    margin: auto;
+    table-layout: auto;
+    background-color: beige;
+    border-radius: 20px;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #999;
+    border-bottom: solid;
+    padding: 20px;
+    font-size: 2em;
+    background-color: burlywood;
+    text-align: center;
+}
+
+td:hover{
+    color: antiquewhite;
+}
+
+#timing{
+    text-align: center;
+    font-size: 40px;
+    color: Ivory  ;
+    font-family: "Buxton Sketch";
+}
+
+input{
+    font-size: 30px;
+}
+
+button{
+    width: 90px;
+    height: 50px;
+    border-color: cadetblue;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: "Buxton Sketch";
+    font-size: 30px;
+
+}
+
+#container{
+    text-align: center;
+}
+
+#myDiv{
+    width: 300px;
+    height: 300px;
+    border: 1px solid cyan;
+    text-align: center;
+}
+
+#image{
+    width: 800px;
+    height: 600px;
+    text-align: center;
+    margin: 60px 190px;
+    border-radius: 45px;
+}
+#p1{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0px;
+    padding: 0px;
+    font-family: "Buxton Sketch";
+    margin: 140px;
+}
+
+a{
+    color: LemonChiffon ;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 120px;
+}
